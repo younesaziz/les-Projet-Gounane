@@ -1,0 +1,22 @@
+.circle {
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    position: absolute;
+    border: rgb(171, 255, 175) solid 3px;
+    background-color:rgb(9, 252, 9)
+}
+
+.colorate {
+    background-color: red;
+    border: rgb(255, 198, 198) solid 3px;
+}
+
+.center {
+    position: absolute;
+    top: 80%;
+    left: 45%;
+}
+.color{
+    background-color:rgb(138, 232, 245);
+}
